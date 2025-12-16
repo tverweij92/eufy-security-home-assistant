@@ -105,8 +105,8 @@ polling_interval: 10
 
 Your Eufy devices should now appear in Home Assistant!
 For References:
-I called my Homebase 2 "Eve"
-and i called my S340 solocame "eagle eye" 
+
+I called my Homebase 2 "Eve" and i called my S340 solocame "eagle eye" 
 
 
 ## 🎨 Dashboard Cards
