@@ -104,6 +104,10 @@ polling_interval: 10
 5. Click **Submit**
 
 Your Eufy devices should now appear in Home Assistant!
+For References:
+I called my Homebase 2 "Eve"
+and i called my S340 solocame "eagle eye" 
+
 
 ## 🎨 Dashboard Cards
 
@@ -155,7 +159,7 @@ cards:
         - justify-self: start
         - color: |
             [[[
-              const mode = states['select.eve_guard_mode'].state;
+              const mode = states['select._guard_mode'].state;
               if (mode === 'Home') return '#4CAF50';
               if (mode === 'Away') return '#F44336';
               if (mode === 'Schedule') return '#2196F3';
