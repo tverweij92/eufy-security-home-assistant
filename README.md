@@ -1,6 +1,11 @@
-# Eufy Security Integration for Home Assistant
+# Eufy Security Integration for Home Assistant — RETIRED
 
-A complete guide to integrate Eufy Security devices (cameras, doorbells, sensors) with Home Assistant using the eufy-security-ws addon.
+> [!WARNING]
+> **This project has been retired and is no longer maintained.**
+>
+> The instructions in this repository no longer work with recent Eufy Security updates. The repository is preserved for historical reference only. Please do not use these instructions for a new installation and do not expect compatibility fixes or support.
+
+This repository contains an archived guide that previously described how to integrate Eufy Security devices with Home Assistant using the `eufy-security-ws` add-on.
 
 ## 📋 Table of Contents
 - [Hardware Compatibility](#hardware-compatibility)
@@ -544,7 +549,7 @@ Yes! Once in Home Assistant, you can expose entities to Alexa or Google Home usi
 
 ## 🤝 Contributing
 
-Found an issue or have a suggestion? Feel free to open an issue or submit a pull request!
+This project is retired. New issues, pull requests and support requests are no longer accepted.
 
 ## 🙏 Credits
 
